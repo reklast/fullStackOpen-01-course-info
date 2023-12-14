@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://reklast.github.io/fullStackOpen2023",
+  "homepage": "https://reklast.github.io/fullStackOpen-01-course-info",
   "eslintConfig": {
     "extends": [
       "react-app",
